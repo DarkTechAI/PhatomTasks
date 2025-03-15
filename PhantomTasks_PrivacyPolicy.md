@@ -1,8 +1,6 @@
 
 # Privacy Policy for PhantomTasks
 
-Effective Date: [Date]
-
 At **PhantomTasks** ("we," "us," or "our"), we respect your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and protect your data when you use our app, PhantomTasks ("App").
 
 ## 1. Information We Collect
@@ -49,6 +47,4 @@ We may update this Privacy Policy from time to time. When we make changes, we wi
 
 If you have any questions or concerns about this Privacy Policy or how we handle your data, please contact us at:
 
-Email: [Your Contact Email]
-
-Address: [Your Business Address]
+Email: [kddtfw@gmail.com]
